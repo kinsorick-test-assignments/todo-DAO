@@ -1,6 +1,8 @@
-# 📝 React Todo GAO
+# 📝 React Todo DAO
 
 ![Project Screenshot](./screenshot.png)
+
+**🌐 [Live Demo](https://kinsorick-test-assignments.github.io/todo-DAO/)**
 
 ---
 
